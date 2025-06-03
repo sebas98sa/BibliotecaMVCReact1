@@ -70,7 +70,7 @@ npm list react-router-dom axios bootstrap
 ### Opción 2: Clonar y Configurar
 ```bash
 # Clonar el proyecto
-git clone [tu-repositorio]
+git clone https://github.com/Norbey32/BibliotecaMVCReact.git
 cd biblioteca-react
 
 # Instalar todas las dependencias
