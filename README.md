@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Sistema de Gestión de Biblioteca - Frontend React
 
 Una aplicación React que consume la API REST del sistema de biblioteca desarrollado en Spring Boot.
@@ -425,3 +426,6 @@ Para reportar bugs o solicitar nuevas características:
 =======
 # BibliotecaMVCReact1
 >>>>>>> 552b03e70f1338e6243d3f45761eb81246638794
+=======
+# BibliotecaMVCReact1
+>>>>>>> 69913a1479f0eca7f82e715b802fa97c3f5d99ff
